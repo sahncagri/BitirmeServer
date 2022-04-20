@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "99a2313b-aaab-461d-8b59-5fbe6281f9eb": {
+      "ProjectGuid": "99a2313b-aaab-461d-8b59-5fbe6281f9eb",
+      "DisplayName": "GameServer",
+      "ColorIndex": 0
+    },
+    "6ae6594d-b1d2-44b3-a7ca-699a12ac8150": {
+      "ProjectGuid": "6ae6594d-b1d2-44b3-a7ca-699a12ac8150",
+      "DisplayName": "GameServer",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    },
+    "ff38cbea-8255-40f6-8ddb-f7edde0b9cb4": {
+      "ProjectGuid": "ff38cbea-8255-40f6-8ddb-f7edde0b9cb4",
+      "DisplayName": "GameServer",
+      "ColorIndex": 2
+    },
+    "5f29d6c6-93b0-4414-9e85-dd641dea764c": {
+      "ProjectGuid": "5f29d6c6-93b0-4414-9e85-dd641dea764c",
+      "DisplayName": "GameServer",
+      "ColorIndex": 3
+    },
+    "28179bb8-00b8-41ba-9641-b94774407e0d": {
+      "ProjectGuid": "28179bb8-00b8-41ba-9641-b94774407e0d",
+      "DisplayName": "GameServer",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
